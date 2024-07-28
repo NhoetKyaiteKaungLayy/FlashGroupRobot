@@ -48,7 +48,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/AnonymousX1025/FallenRobot/blob/master/FallenRobot/config.py)
+- Get your [Necessary Variables](https://github.com/NhoetKyaiteKaungLayy/FlashGroupRobot/blob/master/FlashGroupRobot/config.py)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -56,7 +56,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/FallenRobot && cd FallenRobot`
+`git clone https://github.com/NhoetKyaiteKaungLayy/FlashGroupRobot && cd FallenRobot`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
